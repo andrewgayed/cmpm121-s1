@@ -1,2 +1,1 @@
-
 So this is a small browser-based counter as I updated the button so that every time it is clicked, the counter number increases by one and shows the new number.
